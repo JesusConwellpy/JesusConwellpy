@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jesus Conwell
+# 👋 Hello, I'm Sophie Carter 
 
 ![Profile Badge](https://img.shields.io/badge/Developer-Full%20Stack-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-New%20Zealand-brightgreen?style=flat-square)
