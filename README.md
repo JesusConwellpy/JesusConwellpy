@@ -34,16 +34,7 @@ I'm a passionate and dedicated **Full-Stack Software Developer** with a keen int
 
 ---
 
-## 🎯 Featured Projects
 
-Explore some of my recent work:
-
-- **[TipAi](https://github.com/JesusConwellpy/TipAi)** - Innovative AI-powered application
-- **[CyberStrikeAI](https://github.com/JesusConwellpy/CyberStrikeAI)** - Cutting-edge cybersecurity solution
-- **[SecAgent-TUI](https://github.com/JesusConwellpy/SecAgent-TUI)** - Security agent with terminal interface
-- **[storyforge](https://github.com/JesusConwellpy/storyforge)** - Creative storytelling platform
-- **[claude-code](https://github.com/JesusConwellpy/claude-code)** - AI-assisted code generation
-- **[Antigravity-Manager](https://github.com/JesusConwellpy/Antigravity-Manager)** - Advanced project management tool
 
 ---
 
@@ -58,11 +49,6 @@ Explore some of my recent work:
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusConwellpy&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusConwellpy&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -75,16 +61,6 @@ Explore some of my recent work:
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always open to discussing exciting projects, sharing knowledge, or collaborating on new initiatives!
-
-| Platform | Link |
-|----------|------|
-| 💼 **LinkedIn** | [Visit Profile](https://linkedin.com/in/jesusconwell) |
-| 🐦 **Twitter** | [@jesusconwell](https://twitter.com/jesusconwell) |
-| 📧 **Email** | contact@jesusconwell.dev |
-| 💬 **Discord** | Available on request |
 
 ---
 
